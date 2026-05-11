@@ -23,7 +23,7 @@ calculator-project/
 <img width="1920" height="989" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/edd8554f-e4cf-4162-bf45-31937c33cae6" />
 
 
-screenshots/calculator.png
+
 ⚡ How to Run the Project
 Clone the repository
 git clone https://github.com/your-username/calculator-project.git
