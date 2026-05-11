@@ -7,10 +7,14 @@ Clear (C) button functionality
 Real-time display updates
 User-friendly design
 Keyboard and button input support (optional if added)
+
+
 🛠️ Technologies Used
 HTML5 – Structure of the calculator
 CSS3 – Styling and responsive layout
 JavaScript – Calculator functionality and logic
+
+
 📂 Project Structure
 calculator-project/
 │
@@ -31,7 +35,7 @@ Open the project folder
 cd calculator-project
 Run the project
 
-Simply open index.html in your browser.
+Simply open index.html and use Live server to use calculator in your browser.
 
 📖 Usage
 Click the buttons to enter numbers and operations.
